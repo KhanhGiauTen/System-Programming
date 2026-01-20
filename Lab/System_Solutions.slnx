@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Lab2/">
+    <Project Path="Lab2/Question_01/Question_01.csproj" Id="252ce486-7816-4a11-a391-3ffc9a0a331a" />
+  </Folder>
+  <Project Path="Lab1/Lab1.csproj" />
+</Solution>
